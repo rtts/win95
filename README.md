@@ -5,6 +5,8 @@ Here's a fully configured Windows 95 machine with a working internet
 connection, the latest supported version of Netscape Communicator and
 Doom 95!
 
+![Screenshot of Windows 95](https://raw.githubusercontent.com/rtts/win95/main/screenshot.png)
+
 The file `hda.img` contains the harddrive. You can mount it directly
 with the `./mount` command to copy over files. The `./start` command
 starts the machine using [QEMU](https://www.qemu.org/).
